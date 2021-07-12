@@ -1,1 +1,4 @@
-simple notepad clone designed in python using Tkinter module . This was done as 3rd sem project for KUDOCSE 
+Simple notepad clone designed in python using Tkinter module.
+
+Requirement to run : Python 3.0 >=
+
